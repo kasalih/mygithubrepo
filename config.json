@@ -1,0 +1,18 @@
+{
+    "application": "Jenkins Demo App",
+    "version": "1.0",
+    "environment": "testing",
+    "build": {
+        "number": 101,
+        "status": "success"
+    },
+    "developer": {
+        "name": "John Doe",
+        "team": "DevOps"
+    },
+    "features": [
+        "CI/CD",
+        "Automation",
+        "Build Testing"
+    ]
+}
